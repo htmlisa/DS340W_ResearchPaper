@@ -2,6 +2,14 @@
 
 Note: This is a research paper made for DS340W course in Penn State
 
+## How to RUN the code
+
+1. Download the DS340W_finalpapercode.ipynb and dataset.csv
+2. Open Google Colab
+3. Upload the ipynb file to Google Colab
+4. Upload dataset.csv to the Files tab on the left in Google Colab
+5. Run All
+
 ## 📌 Abstract
 
 This research will explore the use of time series machine learning models to forecast national house price trends using macroeconomic indicators. While traditional house price models often rely on property-level features, this study shifts focus to broader economic variables such as Gross Dometic Product (GDP), mortgage rates, employment levels, and inflation that significantly influence housing market dynamics. Building on (3) foundational research papers (Parent Paper, Supporting Paper 1 and Supporting Paper 2. This study integrates advanced methods in explainable boosting, loss function optimization, and interpretable local modeling to enhance both accuracy and transparency.  
