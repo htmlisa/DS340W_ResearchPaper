@@ -1,6 +1,6 @@
 # 🏠 National House Price Prediction Using Time-Series XGBoost
 
-Note: This a research paper made for DS340W course in Penn State
+Note: This is a research paper made for DS340W course in Penn State
 
 ## 📌 Abstract
 
