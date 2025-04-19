@@ -1,6 +1,6 @@
 # 🏠 National House Price Prediction Using Time-Series XGBoost
 
-Notes: This a research paper made for DS340W course in Penn State
+Note: This a research paper made for DS340W course in Penn State
 
 ## 📌 Abstract
 
@@ -52,7 +52,7 @@ This repository contains the code, results, and documentation for a research pro
 | MPE    | 0.12%     | 9.82%    |
 | ±10% Accuracy | 100.00% | 59.29% |
 
-- **Training Accuracy** was excellent, but the **Test performance showed overfitting**, suggesting that macroeconomic features alone struggle to predict recent housing surges (e.g., post-2016).
+- **Training Accuracy** was excellent, but the **Test performance showed overfitting**, suggesting that macroeconomic features alone struggle to predict recent housing surges (e.g. post-2016).
 
 ## 📉 Visuals
 
@@ -68,7 +68,7 @@ Demonstrates underperformance on post-2016 data where prices rose steeply.
 ## ⚠️ Limitations
 
 - The model **overfits** historical data and fails to generalize during periods of economic shocks.
-- Static macroeconomic indicators are insufficient to capture **short-term volatility** or external interventions (e.g., stimulus packages).
+- Static macroeconomic indicators are insufficient to capture **short-term volatility** or external interventions (e.g. stimulus packages).
 - XGBoost is not natively time-aware and requires engineered lags, which may miss deep temporal patterns.
 
 ## 📌 Future Work
